@@ -1,5 +1,5 @@
 # terrainMaterialCache
-BeamNG.drive on Linux doesn't generate PBR texture cache correctly, resulting in black textures everywhere on maps that use PBR textures. The solution is to give BeamNG PBR cache generated on a Windows computer. This is a repository of correctly generated PBR cache so Linux BeamNG players can fix their game. 
+BeamNG.drive on Linux doesn't generate PBR texture cache correctly, resulting in black textures everywhere on maps that use PBR textures. The solution is to use PBR texture cache generated on a Windows computer. This is a repository of correctly generated PBR cache so Linux BeamNG players can fix their game. 
 
 ## How to install PBR texture cache into your game:
 * Go into the terrainMaterialCache directory in this github and find the zip file for the map you want fix. There are two directories; "Vanilla" and "Mods". Pretty self explanatory. 
