@@ -16,5 +16,5 @@ BeamNG.drive on Linux doesn't generate PBR texture cache correctly, resulting in
 * Delete all the .dds files inside **_C:\Users\James\AppData\Local\BeamNG.drive\0.24\temp\art\terrainMaterialCache\\_**
 * Open the game and load up the map that you want to contribute for. 
 * When the map is done loading, there will be .dds files for it in **_C:\\Users\James\AppData\Local\BeamNG.drive\0.24\temp\art\terrainMaterialCache\\_**
-* Add those .dds files to an archive in .zip format. I used 7zip. 
+* Add those .dds files to an archive in .zip format. Make sure the .dds files are in the root of the zip file. Name the zip file "terrainMaterialCache" followed by the map name without spaces and the version number. Example: Yellowsand Island version 0.91 would be **terrainMaterialCacheYellowsandIsland0.91.zip**
 * Either create an issue with a URL link to the map and a download link to your zip file, or create a pull request. 
